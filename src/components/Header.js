@@ -10,7 +10,7 @@ export function Header({ onTogglePreview, onFillExampleCV }) {
           <p>
             Made by{" "}
             <a href="https://github.com/DarkWool/cv-creator-app" target="_blank" rel="noreferrer">
-              DarkWool.
+              Sh@ilja.
             </a>
           </p>
         </div>
