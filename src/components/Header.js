@@ -33,7 +33,7 @@ export function Header({ onTogglePreview, onFillExampleCV }) {
             <li className="header_nav-item">
               <Button
                 variant="sec"
-                content="Fill Example CV"
+                content="Example Of Filled CV"
                 onClick={() => {
                   const userAnswer = window.confirm(
                     "Are you sure you want to load the example CV?, this will erase all the data you have entered and can't be undone."
