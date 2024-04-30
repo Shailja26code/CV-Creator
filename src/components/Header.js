@@ -9,8 +9,8 @@ export function Header({ onTogglePreview, onFillExampleCV }) {
           <h1>CV Creator</h1>
           <p>
             Made by{" "}
-            <a href="https://github.com/DarkWool/cv-creator-app" target="_blank" rel="noreferrer">
-              Sh@ilja.
+            <a href="https://github.com/Shailja26code/CV-Creator" target="_blank" rel="noreferrer">
+              Sh@ilja
             </a>
           </p>
         </div>

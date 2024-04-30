@@ -21,7 +21,7 @@
 
 ::selection {
   background-color: hsla(266.1, 100%, 39%, 0.75);
-  color: white;
+  color: rgb(242, 242, 241);
 }
 
 html {
