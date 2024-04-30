@@ -1,8 +1,8 @@
 {
-  "name": "cv-creator-app",
+  "name": "cv-creator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://darkwool.github.io/cv-creator-app",
+  "homepage": "https://github.com/Shailja26code/CV-Creator",
   "dependencies": {
     "@emoji-mart/data": "^1.1.2",
     "@emoji-mart/react": "^1.1.1",
