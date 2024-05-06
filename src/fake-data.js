@@ -1,5 +1,5 @@
 import * as models from "./models";
-import defaultProfilePicture from "./images/wick.png";
+import defaultProfilePicture from "./images/Shailja.png";
 
 
 export const fakeData = {
@@ -69,12 +69,12 @@ export const fakeData = {
     { ...models.createSkill(), name: "Content creation" },
   ],
   languages: [
-    { ...models.createLanguage(), name: "Spanish", proficiency: "native" },
+    { ...models.createLanguage(), name: "Swedish", proficiency: "native" },
     { ...models.createLanguage(), name: "English", proficiency: "fullProfessional" },
   ],
   interests: [
-    { ...models.createInterest(), iconId: "camera", name: "Photography" },
-    { ...models.createInterest(), iconId: "shield", name: "Cybersecurity" },
+    { ...models.createInterest(), iconId: "book", name: "Reading" },
+    { ...models.createInterest(), iconId: "dance", name: "Dancing" },
     { ...models.createInterest(), iconId: "robot_face", name: "AI" },
     { ...models.createInterest(), iconId: "tent", name: "Camping" },
     { ...models.createInterest(), iconId: "soccer", name: "Playing team sports" },

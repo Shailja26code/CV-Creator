@@ -17,6 +17,7 @@ const PLACEHOLDERS = [
   { iconId: "camera", name: "Photography" },
   { iconId: "hiking_boot", name: "Hiking" },
   { iconId: "bulb", name: "Technology" },
+  { iconId: "dance", name: "Dancing" },
 ];
 
 export function Interests({ step, data, onAddInterest, onChange, onDeleteEntry }) {
