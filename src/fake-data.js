@@ -74,7 +74,7 @@ export const fakeData = {
   ],
   interests: [
     { ...models.createInterest(), iconId: "book", name: "Reading" },
-    { ...models.createInterest(), iconId: "dance", name: "Dancing" },
+    { ...models.createInterest(), iconId: "dance-icon-id", name: "Dancing" },
     { ...models.createInterest(), iconId: "robot_face", name: "AI" },
     { ...models.createInterest(), iconId: "tent", name: "Camping" },
     { ...models.createInterest(), iconId: "soccer", name: "Playing team sports" },
