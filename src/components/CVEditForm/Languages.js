@@ -11,11 +11,9 @@ export function Languages({ step, data, onAddLanguage, onChange, onDeleteEntry }
   const entries = data.length;
   const langProficiencyOptions = [
     { value: "null", name: "Select language proficiency" },
-    { value: "elementary", name: "Elementary" },
-    { value: "limited", name: "Limited" },
+    { value: "limited", name: "Beginner" },
     { value: "professional", name: "Professional" },
-    { value: "fullProfessional", name: "Full Professional" },
-    { value: "native", name: "Native / Bilingual" },
+    { value: "native", name: "Native" },
   ];
 
   return (

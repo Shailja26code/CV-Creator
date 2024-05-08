@@ -13,7 +13,7 @@
 }
 
 :root {
-  --accentColor: hsla(266, 100%, 50%, 1);
+  --accentColor: rgb(4, 92, 121);
   --darkerAccentColor: hsl(266.1, 100%, 30%);
   --accentColorDark: hsl(265.9, 100%, 71.4%);
   --dangerColor: hsl(335, 95.9%, 37.8%);

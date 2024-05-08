@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { FormHeader } from "./FormHeader";
 import { FormContainer } from "./FormContainer";
-import { Input } from "../FormElements/Input";
+import { Input } from "../FormElements/Input"
 import { InputWrapper } from "../FormElements/InputWrapper";
 import { Button } from "../Button.js";
 import { EmojiPicker } from "./EmojiPicker";
@@ -16,8 +16,7 @@ const PLACEHOLDERS = [
   { iconId: "helmet_with_white_cross", name: "Volunteer work" },
   { iconId: "camera", name: "Photography" },
   { iconId: "hiking_boot", name: "Hiking" },
-  { iconId: "bulb", name: "Technology" },
-  { iconId: "dance-icon-id", name: "Dancing" },
+  { iconId: "bulb", name: "Technology" }
 ];
 
 export function Interests({ step, data, onAddInterest, onChange, onDeleteEntry }) {
