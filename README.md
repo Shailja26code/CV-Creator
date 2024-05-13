@@ -1,28 +1,96 @@
 # CV Creator App - [view live](https://darkwool.github.io/cv-creator-app/)
 
-This is my very first app created using _**React**_, alongside _**react-pdf**_ and _**emoji-mart**_, it was difficult at first but after a few commits I started to see that is awesome to use it and I think that this was a good project to start practicing with it.
+Sure, I can help you create a comprehensive documentation for your CV Creator Project built with JavaScript, HTML, CSS, and React. Here's a suggested structure for your documentation:
 
-The best part is that I learned how to manage class and functional components (Started with class ones and later I refactored) but not only that, I decided that I could learn about hooks too!
+## Project Documentation
 
-![Preview of the CV Creator App](/app-preview.png "Preview of the CV Creator App")
+### 1. Introduction
+- Project overview
+- Features and functionalities
+- Technologies used (JavaScript, HTML, CSS, React)
 
-## Features
+### 2. Installation and Setup
+#### Prerequisites
+- List the required software and dependencies (Node.js, npm, etc.)
+- Provide instructions for installing the prerequisites
 
-1. Fill your CV using your personal data, education, work experience, skills, languages and interests.
-1. Download your CV as a **PDF** file!
-1. Use emojis to express yourself on the "interests" section.
+#### Project Setup
+- Step-by-step guide for setting up the project locally
+- Cloning the repository
+- Installing dependencies (`npm install`)
+- Running the development server (`npm start`)
 
-## Specifications
+### 3. Project Structure
+- Explain the folder structure of the project
+- Describe the purpose of each folder and file
 
-1. Create a new project using npx create-react-app cv-project. If you need a reminder on how it works, check out the previous lessons. Don’t forget to setup a GitHub repository for your project, to push your progress.
-   1. Remove the boilerplate code created by create-react-app.
-   1. You should use class components for this project. You’re going to find a lot of code written using class components and this practical experience will help you understand it when encountered. You’ll also revisit this project in a later lesson to replace the class components with functional ones.
-   1. Think about how to structure your application into components. Your application should include:
-      1. A section to add general information like name, email, phone number.
-      1. A section to add your educational experience (school name, title of study, date of study)
-      1. A section to add practical experience (company name, position title, main tasks of your jobs, date from and until when you worked for that company)
-   1. Be sure to include an edit and submit button for each section or for the whole CV, your preference. The submit button should submit your form and display the value of your input fields in HTML elements. The edit button should add back (display) the input fields, with the previously displayed information as values. In those input fields, you should be able to edit and resubmit the content. You’re going to make heavy use of state and props, so make sure you understood those concepts.
-   1. Create a components folder in your src directory and add your components.
-   1. Include a styles folder in your src directory for your CSS files. You’ll need to import these in the component files to use them.
+```
+cv-creator/
+├── node_modules/
+├── public/
+│   ├── index.html
+│   └── ...
+├── src/
+│   ├── components/
+│   │   ├── Header/
+│   │   ├── CV/
+│   │   ├── ...
+│   ├── styles/
+│   │   ├── global.css
+│   │   ├── ...
+│   ├── utils/
+│   │   ├── helpers.js
+│   │   ├── ...
+│   ├── App.js
+│   ├── index.js
+│   └── ...
+├── .gitignore
+├── package.json
+├── package-lock.json
+└── README.md
+```
 
-Check the assignment's page [here.](https://www.theodinproject.com/lessons/node-path-javascript-cv-application)
+### 4. Components
+- Describe each React component in detail
+- Explain the purpose, props, and functionality of each component
+- Provide code snippets and examples for better understanding
+
+### 5. Styling
+- Explain the CSS styling approach used in the project
+- Describe any CSS frameworks or libraries used (if applicable)
+- Provide guidelines for adding or modifying styles
+
+### 6. Data Management
+- Explain how data is managed in the application
+- Describe any state management libraries or patterns used (e.g., React Context API, Redux)
+- Provide examples of data flow and handling
+
+### 7. Third-Party Libraries and APIs
+- List and describe any third-party libraries or APIs used in the project
+- Explain their purpose and usage
+
+### 8. Testing
+- Describe the testing approach and tools used (if applicable)
+- Provide instructions for running tests
+
+### 9. Deployment
+- Explain the deployment process
+- Provide instructions for building and deploying the application
+
+### 10. Troubleshooting
+- List common issues and their solutions
+- Provide debugging tips and techniques
+
+### 11. Contributing
+- Guidelines for contributing to the project
+- Code style and conventions
+- Pull request process
+
+### 12. License
+- Specify the license under which the project is distributed
+
+### 13. Contact
+- Provide contact information for the project maintainers or support
+
+This documentation structure covers all the essential aspects of your CV Creator Project, including installation, project structure, components, styling, data management, third-party dependencies, testing, deployment, and contributing guidelines. You can customize and expand each section based on the specific details and requirements of your project.
+  
