@@ -36,10 +36,14 @@ Key Features
 	React: A popular JavaScript library for building user interfaces, providing a component-based architecture and efficient rendering.
 
 #### Benefits
-o	The CV Creator project offers several benefits to users:
+The CV Creator project offers several benefits to users:
+
 o	Time-saving: Users can quickly create professional-looking resumes without the need for complex software or design skills.
+
 o	Customization: The ability to customize and personalize resumes according to individual preferences and requirements.
+
 o	Consistency: Maintaining a consistent and visually appealing format across multiple versions of a resume.
+
 o	Portability: Resumes can be easily downloaded and shared in various formats, making them accessible for job applications or professional networking.
                  Overall, the CV Creator project aims to simplify the process of creating and managing resumes,    
                  providing users with a convenient and efficient solution for showcasing their professional profiles   
