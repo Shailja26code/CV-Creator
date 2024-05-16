@@ -16,16 +16,23 @@ The CV Creator is a web application built with JavaScript, HTML, CSS, and React 
 
 Key Features
 	User-Friendly Interface: The application offers an intuitive and responsive user interface, making it easy for users to navigate and input their information.
+
 	Resume Templates: Users can choose from a variety of pre-designed resume templates, each with a unique layout and design. These templates serve as a starting point for users to customize and personalize their CVs.
+
 	Sections and Content Management: The CV Creator allows users to add and manage different sections of their resume, such as personal information, education, work experience, skills, and achievements. Users can easily add, edit, or remove content within each section.
+
 	Formatting and Styling: Users have the ability to format and style their CV content, including font styles, colors, and layout options. This ensures that their resumes have a professional and visually appealing appearance.
+
 	Preview and Download: The application provides a live preview of the CV, allowing users to see how their resume will look before finalizing it. Users can then download their CV in various formats, such as PDF or Word documents, for easy sharing or printing.
 
 #### Technologies used
 
 	JavaScript: The core programming language used for building the application's functionality.
+
 	HTML: Used for structuring the web pages and creating the user interface.
+
 	CSS: Responsible for styling and visually enhancing the application's components.
+
 	React: A popular JavaScript library for building user interfaces, providing a component-based architecture and efficient rendering.
 
 #### Benefits
