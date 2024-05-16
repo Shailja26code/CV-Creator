@@ -1,6 +1,8 @@
 # CV Creator App - [view live](https://darkwool.github.io/cv-creator-app/)
 
 Sure, I can help you create a comprehensive documentation for your CV Creator Project built with JavaScript, HTML, CSS, and React. Here's a suggested structure for your documentation:
+<img width="681" alt="image" src="https://github.com/Shailja26code/CV-Creator/assets/159249950/65184ab4-03a1-4a65-9629-6b5c5c75e645">
+
 
 ## Project Documentation
 
