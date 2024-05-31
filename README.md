@@ -1,4 +1,4 @@
-# CV Creator App - [view live](https://shailja26code.github.io/CV-Creator-Live/)
+# CV Creator App - [view live](https://shailja26code.github.io/CV-Creator-Live/) 
 CV Creator Project built with JavaScript, HTML, CSS, and React.
 
 <img width="681" alt="image" src="https://github.com/Shailja26code/CV-Creator/assets/159249950/65184ab4-03a1-4a65-9629-6b5c5c75e645"> 
