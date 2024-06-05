@@ -6,7 +6,7 @@ CV Creator Project built with JavaScript, HTML, CSS, and React.
 
 ## Project Presentation
 
-### 1. Introduction
+### 1. Introduction 
 
 Project Overview
    
